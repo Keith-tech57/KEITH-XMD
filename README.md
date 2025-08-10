@@ -1,4 +1,4 @@
-><p align="center">
+<p align="center">
   <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">KEITH-X𝗠𝗗</h1>
 </p>
 
@@ -69,56 +69,4 @@
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td></td>
-    </tr>
-  </table>
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://whatsapp.com/channel/0029VbANWX1DuMRi1VNPlB0y" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>  
-
-<div align="center">
- 
-
-##  BOT FEATURES
-
-```bash
-- Music downloaders
-- Video and Ytmp3
-- Antilink and Delete
-- Super Fast
-- High performance on groups
-
-```
-
-
-
-## 🪀  SUPPORT CHANNEL
-
-<div align="center">
-  <a href="https://whatsapp.com/channel/0029VbANWX1DuMRi1VNPlB0y">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
-  </a>
-</div>
-
-<div align="center">
-  
-
-## ⚠️ WARNING !
-
-<div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
-  <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
-  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
-</div>
-
-<div align="center">
- 
-
+      <td><a 
