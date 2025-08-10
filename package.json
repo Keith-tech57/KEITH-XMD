@@ -22,6 +22,7 @@
     "buffer": "^6.0.3",
     "moment-timezone": "^0.6.0",
     "axios": "^1.7.9",
+    "adm-zip": "^0.5.16",
     "file_size_url": "1.0.6",
     "fs-extra": "^11.1.0",
     "fs": "^0.0.1-security",
