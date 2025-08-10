@@ -1,0 +1,31 @@
+
+{
+"bot-name": "KEITH-XMD",
+  "description": "Multi Device WhatsApp Bot developed by (Keith)",
+  "logo": "https://files.catbox.moe/juxfce.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://keithxmd-session.onrender.com/",
+    "owner-verification":"keithtec57@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. It starts with Keith;;;",
+        "value":"",
+        "required": true
+        
+      },
+      
+    "OWNER_NUMBER": {
+      "description": "Enter owner number",
+      "required": true,
+      "value": "263714757867"
+      
+       },
+      "MODE": {
+      "description": "Change if you want private or groups",
+      "required": true,
+      "value": "public"
+
+    }  
+  }
+}
