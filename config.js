@@ -78,7 +78,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",   // reply on mentioned message 
 
-MENU_IMAGE_URL: getConfig("MENU_IMAGE_URL") || "https://files.catbox.moe/78sba6.jpg",  
+MENU_IMAGE_URL: getConfig("MENU_IMAGE_URL") || "https://files.catbox.moe/wss7ae.jpg",  
 // Bot's "alive" menu mention image
 
    ANTI_DELETE: process.env.ANTI_DELETE || "false",
