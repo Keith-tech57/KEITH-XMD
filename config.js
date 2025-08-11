@@ -10,7 +10,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "Keith;;;8i9kjQIb#qzvsKpo1etthIIXOPhfzySblOSkAb4QgnDFpWCJv3bc",
   // Your bot's session ID (keep it secure)
 
 PREFIX: getConfig("PREFIX") || ".", 
@@ -19,34 +19,34 @@ PREFIX: getConfig("PREFIX") || ".",
 CHATBOT: getConfig("CHATBOT") || "off",
  // on/off chat bot,
 
-BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "𝐊𝐄𝐈𝐓𝐇-𝐗𝐌𝐃", 
+BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "TECH", 
  // Bot's display name
 
 MODE: getConfig("MODE") || process.env.MODE || "public",  
 // Bot mode: public/private/group/inbox
 
-REPO: process.env.REPO || "https://github.com/Keith-tech57/KEITH-XMD",  
+REPO: process.env.REPO || "https://github.com/tech57/KEITH-XMD",  
 // Bot's GitHub repo
 
 BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",
   // Bot's BAILEYS
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263789745277", 
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923067109628", 
  // Owner's WhatsApp number
 
-OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "Keith",           // Owner's name
+OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "TECH",           // Owner's name
 
 DEV: process.env.DEV || "263789745277",              // Developer's contact number
 
-DEVELOPER_NUMBER: '263789745277@s.whatsapp.net',            
+DEVELOPER_NUMBER: '923067109628@s.whatsapp.net',            
 // Developer's WhatsApp ID
 
 AUTO_REPLY: process.env.AUTO_REPLY || "false",     // Enable/disable auto-reply
 
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // Reply to status updates?
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*KEITH-XMD VIEWED YOUR STATUS 🤖*",  
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*TECH-ALI VIEWED YOUR STATUS 🤩🤖*",  
 // Status reply message
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",         
@@ -58,7 +58,7 @@ AUTO_REACT: process.env.AUTO_REACT || "false",     // Auto-react to messages?
 
 OWNER_REACT: process.env.OWNER_REACT || "false",  // Auto-react to messages?
 
-CUSTOM_REACT: process.env.CUSTOM_REACT || "false",         
+CUSTOM_REACT: process.env.CUSTOM_REACT || "true",         
  // Use custom emoji reactions?
 
 CUSTOM_REACT_EMOJIS: getConfig("CUSTOM_REACT_EMOJIS") || process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍", 
@@ -73,7 +73,7 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false",     
  // Auto-record voice notes?
 
-AUTO_TYPING: process.env.AUTO_TYPING || "false",            
+AUTO_TYPING: process.env.AUTO_TYPING || "true",            
 // Show typing indicator?
 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",   // reply on mentioned message 
@@ -81,22 +81,22 @@ MENTION_REPLY: process.env.MENTION_REPLY || "false",   // reply on mentioned mes
 MENU_IMAGE_URL: getConfig("MENU_IMAGE_URL") || "https://files.catbox.moe/wss7ae.jpg",  
 // Bot's "alive" menu mention image
 
-   ANTI_DELETE: process.env.ANTI_DELETE || "false",
+   ANTI_DELETE: process.env.ANTI_DELETE || "true",
  // true antidelete to recover deleted messages 
 
-ANTI_CALL: process.env.ANTI_CALL || "true",
+ANTI_CALL: process.env.ANTI_CALL || "false",
  // enble to reject calls automatically
 
 ANTI_BAD_WORD: process.env.ANTI_BAD_WORD || "false",   
  // Block bad words?
 
-ANTI_LINK: process.env.ANTI_LINK || "false",  
+ANTI_LINK: process.env.ANTI_LINK || "true",  
   // Block links in groups
 
 ANTI_VV: process.env.ANTI_VV || "false",  
  // Block view-once messages
 
-DELETE_LINKS: process.env.DELETE_LINKS || "false", 
+DELETE_LINKS: process.env.DELETE_LINKS || "true", 
 // Auto-delete links?
 
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox", 
@@ -109,7 +109,7 @@ AUTO_VOICE: process.env.AUTO_VOICE || "false",
 PM_BLOCKER: process.env.PM_BLOCKER || "false",
 
     
-DESCRIPTION: process.env.DESCRIPTION || "> *© POWERED BY KEITH-TECH*",  
+DESCRIPTION: process.env.DESCRIPTION || "> *© POWERED BY -TECH*",  
 // Bot description
 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",  
