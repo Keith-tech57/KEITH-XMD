@@ -9,7 +9,7 @@
     "restart": "pm2 restart KEITH-XMD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:baileys-pro@latest",
+    "@whiskeysockets/baileys": "6.7.9",
     "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
